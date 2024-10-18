@@ -1,0 +1,62 @@
+{
+  "name": "propertyradar",
+  "version": "1.0.0",
+  "description": "scrape list items from propertyradar",
+  "main": "dist/index.js",
+  "engines": {
+    "npm": ">=10.8.1",
+    "node": ">=20.16.0"
+  },
+  "scripts": {
+    "test": "npm run clear && jest --coverage",
+    "test:watch": "npm run clear && jest --watch",
+    "start": "node --experimental-specifier-resolution=node .",
+    "start:monitor": "node start dist/index.monit.js",
+    "start:test": "node dist/index.test.js",
+    "dev": "mprocs",
+    "lint": "eslint ./src/**/*.ts",
+    "build": "npm run clear && tsc",
+    "ahhh": "pm2 stop 0",
+    "clear": "rimraf dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benhichem/propertyradar.git"
+  },
+  "author": "benhichem<hichemben45@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benhichem/propertyradar/issues"
+  },
+  "homepage": "https://github.com/benhichem/propertyradar#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "@typescript-eslint/eslint-plugin": "^8.0.1",
+    "@typescript-eslint/parser": "^8.0.1",
+    "eslint": "^9.8.0",
+    "jest": "^29.7.0",
+    "mprocs": "^0.7.1",
+    "nodemon": "^3.1.4",
+    "rimraf": "^6.0.1",
+    "ts-jest": "^29.2.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "@types/dotenv": "^8.2.0",
+    "@types/node-cron": "^3.0.11",
+    "dotenv": "^16.4.5",
+    "google-auth-library": "^9.14.1",
+    "google-spreadsheet": "^4.1.4",
+    "googleapis": "^144.0.0",
+    "node-cron": "^3.0.3",
+    "pino": "^9.4.0",
+    "pm2": "^5.4.2",
+    "puppeteer": "^23.4.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "reflect-metadata": "^0.2.2",
+    "sqlite3": "^5.1.7",
+    "typeorm": "^0.3.20"
+  }
+}

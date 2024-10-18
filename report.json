@@ -1,0 +1,3185 @@
+{
+  "properties": [
+    {
+      "address": "5328 SW 66TH ST,\nGAINESVILLE, FL 32608",
+      "equity": "$70,657",
+      "contacts": [
+        {
+          "address": "17653 NW 238TH ST, HIGH SPRINGS, FL 32643",
+          "name": "SUSAN BIER",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "3170050",
+                "recordingDate": "1/23/2019",
+                "grantor": "BIER, SUSAN J",
+                "grantee": "SUNSTATE FCU",
+                "amount": "$16,265",
+                "lienFilingDate": "1/22/2019",
+                "propertyLienInterestRate": "6.33",
+                "personLienStatus": "Open",
+                "lienContractDate": "2019-01-22",
+                "lienCourtCaseNumber": "01-2018-CC-002382"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "3175362",
+                "recordingDate": "2/22/2019",
+                "grantor": "BIER, SUSAN J",
+                "grantee": "SUNSTATE FCU",
+                "amount": "$16,265",
+                "lienFilingDate": "1/22/2019",
+                "propertyLienInterestRate": "6.33",
+                "personLienStatus": "Open",
+                "lienContractDate": "2019-01-22",
+                "lienCourtCaseNumber": "01-2018-CC-002382"
+              }
+            ]
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P77C59F0",
+      "county": "ALACHUA",
+      "apn": "06890-107-000",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "428 SW 3RD ST,\nGAINESVILLE, FL 32601",
+      "equity": "$274,910",
+      "contacts": [
+        {
+          "address": "428 SW 3RD ST, GAINESVILLE, FL 32601",
+          "name": "VENITA CONEY",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "2361838",
+                "recordingDate": "8/7/2007",
+                "grantor": "SIMS, VENITA",
+                "grantee": "HOUSEHOLD AUTO FINANCE CORP",
+                "amount": "$323,161",
+                "lienFilingDate": "8/3/2007",
+                "propertyLienInterestRate": "10.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2007-08-03",
+                "lienCourtCaseNumber": "01 2007 SC 001555"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "2379118",
+                "recordingDate": "10/16/2007",
+                "grantor": "SIMS, VENITA",
+                "grantee": "HOUSEHOLD AUTO FINANCE CORP",
+                "amount": "$3,232",
+                "lienFilingDate": "8/3/2007",
+                "propertyLienInterestRate": "10.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2007-08-03",
+                "lienCourtCaseNumber": "01 2007 SC 001555"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "2460982",
+                "recordingDate": "10/14/2008",
+                "grantor": "CONEY, VENITA YOLANDA",
+                "grantee": "FORD CREDIT US",
+                "amount": "$14,548",
+                "lienFilingDate": "10/10/2008",
+                "propertyLienInterestRate": "10.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2008-10-10",
+                "lienCourtCaseNumber": "01-07-CC-4726"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "2493396",
+                "recordingDate": "3/31/2009",
+                "grantor": "SIMS, VENITA Y",
+                "grantee": "FORD CREDIT US",
+                "amount": "$14,548",
+                "lienFilingDate": "10/10/2008",
+                "propertyLienInterestRate": "10.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2008-10-10",
+                "lienCourtCaseNumber": "01-07-CC-4726"
+              }
+            ]
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P77CB4FC",
+      "county": "ALACHUA",
+      "apn": "13020-010-010",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "5018 ALAMEDA ST,\nPANAMA CITY, FL 32404",
+      "equity": "N/A",
+      "contacts": [
+        {
+          "address": "21234 HIGHTOWER RD, FOUNTAIN, FL 32438",
+          "name": "NANCY LYNN DAUCH",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "27679",
+                "recordingDate": "4/13/2022",
+                "grantor": "DAUCH, NANCY L",
+                "grantee": "MIDLAND CREDIT MANAGEMENT INC",
+                "amount": "$4,280",
+                "lienFilingDate": "8/17/2021",
+                "personLienStatus": "Open",
+                "lienContractDate": "2021-08-17",
+                "lienCourtCaseNumber": "21000978SC"
+              }
+            ]
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P77E0F6D",
+      "county": "BAY",
+      "apn": "24490-000-000",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "1354 STRATFORD AVE,\nPANAMA CITY, FL 32404",
+      "equity": "$404,068",
+      "contacts": [
+        {
+          "address": "1354 STRATFORD AVE, PANAMA CITY, FL 32404",
+          "name": "RICHARD MUSGRAVE",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        },
+        {
+          "address": "1354 STRATFORD AVE, PANAMA CITY, FL 32404",
+          "name": "KATHY MUSGRAVE",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "68347",
+                "recordingDate": "5/28/2009",
+                "grantor": "MUSGRAVE, KATHY J",
+                "grantee": "EMBRY VILLAGE SC LLC",
+                "amount": "$84,767",
+                "lienFilingDate": "3/9/2009",
+                "personLienStatus": "Open",
+                "lienCourtCaseNumber": "08-A-5583"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "1310425",
+                "recordingDate": "10/15/2009",
+                "grantor": "MUSGRAVE, KATHY J",
+                "grantee": "NAP CAMP CREEK MARKETPLACE LLC",
+                "amount": "$12,174",
+                "lienFilingDate": "9/22/2009",
+                "personLienStatus": "Open",
+                "lienContractDate": "2009-10-14",
+                "lienCourtCaseNumber": "08VS153369-F"
+              }
+            ]
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P77E1A5C",
+      "county": "BAY",
+      "apn": "26095-000-000",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "501 GRANADA CIR 501A,\nPANAMA CITY BEACH, FL 32413",
+      "equity": "$166,285",
+      "contacts": [
+        {
+          "address": "501 GRANADA CIR A, PANAMA CITY BEACH, FL 32413",
+          "name": "TIMOTHY A BELL",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "9291",
+                "recordingDate": "2/9/2007",
+                "grantor": "BELL, TIMOTHY L",
+                "grantee": "BELL, TAMMY Y",
+                "amount": "$26,758",
+                "lienFilingDate": "2/9/2007",
+                "personLienStatus": "Open",
+                "lienContractDate": "2007-01-22",
+                "lienCourtCaseNumber": "01-0002900-DR"
+              }
+            ]
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P77E8219",
+      "county": "BAY",
+      "apn": "33648-009-000",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "129 FERNWOOD ST,\nPANAMA CITY BEACH, FL 32407",
+      "equity": "$141,687",
+      "contacts": [
+        {
+          "address": "129 FERNWOOD ST, PANAMA CITY BEACH, FL 32407",
+          "name": "JUAN HERNANDEZ",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "16424",
+                "recordingDate": "3/7/2022",
+                "grantor": "HERNANDEZ, JUAN",
+                "grantee": "CAVALRY SPV I LLC",
+                "amount": "$11,194",
+                "lienFilingDate": "3/4/2022",
+                "propertyLienInterestRate": "10.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2022-03-04",
+                "lienCourtCaseNumber": "20001521CC"
+              }
+            ]
+          }
+        },
+        {
+          "address": "129 FERNWOOD ST, PANAMA CITY BEACH, FL 32407",
+          "name": "BERTHA HERNANDEZ",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P77E92C3",
+      "county": "BAY",
+      "apn": "34479-600-030",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "9902 S THOMAS DR 435,\nPANAMA CITY BEACH, FL 32408",
+      "equity": "$285,242",
+      "contacts": [
+        {
+          "address": "129 SILVERGRASS DR, DALLAS, GA 30157",
+          "name": "JAMES WATTS",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "53106",
+                "recordingDate": "7/18/2022",
+                "grantor": "WATTS, JAMES EURAL III",
+                "grantee": "STATE OF FLORIDA",
+                "amount": "$11,250",
+                "lienFilingDate": "7/6/2022",
+                "personLienStatus": "Open",
+                "lienContractDate": "2022-07-06",
+                "lienCourtCaseNumber": "19001517CFMA"
+              }
+            ]
+          }
+        },
+        {
+          "address": "129 SILVERGRASS DR, DALLAS, GA 30157",
+          "name": "ADRIENNE NAKISHA WATTS",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P77EDF38",
+      "county": "BAY",
+      "apn": "40001-000-132",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "7810 NW 70TH AVE,\nPARKLAND, FL 33067",
+      "equity": "$684,438",
+      "contacts": [
+        {
+          "address": "7810 NW 70TH AVE, PARKLAND, FL 33067",
+          "name": "JAMES GREENE",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        },
+        {
+          "address": "7810 NW 70TH AVE, PARKLAND, FL 33067",
+          "name": "PAULETTE GREENE",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "108244362",
+                "recordingDate": "11/10/2008",
+                "grantor": "GREENE, PAULETTE",
+                "grantee": "MLH FINANCIAL SERVICES INC",
+                "amount": "$34,113",
+                "lienFilingDate": "9/29/2008",
+                "personLienStatus": "Open",
+                "lienCourtCaseNumber": "08006232COSO"
+              }
+            ]
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P77F3DC1",
+      "county": "BROWARD",
+      "apn": "47-41-35-04-0730",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "3411 NW 110TH WAY,\nCORAL SPRINGS, FL 33065",
+      "equity": "$355,879",
+      "contacts": [
+        {
+          "address": "3411 NW 110TH WAY, CORAL SPRINGS, FL 33065",
+          "name": "JOSE ZULUAGA SR",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        },
+        {
+          "address": "3411 NW 110TH WAY, CORAL SPRINGS, FL 33065",
+          "name": "ANNE WILLIAMSON",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "110014178",
+                "recordingDate": "4/29/2011",
+                "grantor": "WILLIAMSON, LINDSAY",
+                "grantee": "DISCOVER BANK",
+                "amount": "$5,718",
+                "lienFilingDate": "4/15/2011",
+                "propertyLienInterestRate": "6.00",
+                "personLienStatus": "Open",
+                "lienCourtCaseNumber": "COWE 10-17478/83"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "110090337",
+                "recordingDate": "6/13/2011",
+                "grantor": "WILLIAMSON, LINDSAY",
+                "grantee": "DISCOVER BANK",
+                "amount": "$5,718",
+                "lienFilingDate": "4/15/2011",
+                "propertyLienInterestRate": "6.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2011-05-24",
+                "lienCourtCaseNumber": "COWE 10-17478/83"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "110282581",
+                "recordingDate": "9/21/2011",
+                "grantor": "WILLIAMSON, LINDSAY",
+                "grantee": "CITIBANK SOUTH DAKOTA NA",
+                "amount": "$30,053",
+                "lienFilingDate": "8/22/2011",
+                "propertyLienInterestRate": "6.00",
+                "personLienStatus": "Open",
+                "lienCourtCaseNumber": "10-33924/21"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "110368751",
+                "recordingDate": "11/8/2011",
+                "grantor": "WILLIAMSON, LINDSAY",
+                "grantee": "CITIBANK SOUTH DAKOTA NA",
+                "amount": "$30,053",
+                "lienFilingDate": "8/22/2011",
+                "propertyLienInterestRate": "6.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2011-10-20",
+                "lienCourtCaseNumber": "CACE 10-33924/21"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "115123135",
+                "recordingDate": "6/6/2018",
+                "grantor": "WILLIAMSON, LINDSAY",
+                "grantee": "TD BANK USA NA",
+                "amount": "$3,893",
+                "lienFilingDate": "6/5/2018",
+                "personLienStatus": "Open",
+                "lienContractDate": "2018-06-05",
+                "lienCourtCaseNumber": "COSO18001929"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "116315780",
+                "recordingDate": "1/29/2020",
+                "grantor": "WILLIAMSON, LINDSAY",
+                "grantee": "CAVALRY SPV I LLC",
+                "amount": "$2,422",
+                "lienFilingDate": "1/27/2020",
+                "personLienStatus": "Open",
+                "lienContractDate": "2020-01-27",
+                "lienCourtCaseNumber": "COCE-19-003794"
+              }
+            ]
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P77FB45A",
+      "county": "BROWARD",
+      "apn": "48-41-17-12-0710",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "4421 NW 9TH CT,\nCOCONUT CREEK, FL 33066",
+      "equity": "$509,245",
+      "contacts": [
+        {
+          "address": "4421 NW 9TH CT, COCONUT CREEK, FL 33066",
+          "name": "DAVID SHAKIR",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "110969596",
+                "recordingDate": "8/28/2012",
+                "grantor": "SHAKIR, DAVID",
+                "grantee": "AMERICAN EXPRESS CENTURION BK",
+                "amount": "$12,967",
+                "lienFilingDate": "7/24/2012",
+                "propertyLienInterestRate": "4.75",
+                "personLienStatus": "Open",
+                "lienCourtCaseNumber": "11-7855"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "112729607",
+                "recordingDate": "1/6/2015",
+                "grantor": "SHAKIR, DAVID",
+                "grantee": "FIFTH THIRD BANK",
+                "amount": "$9,961",
+                "lienFilingDate": "1/5/2015",
+                "propertyLienInterestRate": "4.75",
+                "personLienStatus": "Open",
+                "lienCourtCaseNumber": "COWE-14-009986"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "112823074",
+                "recordingDate": "2/20/2015",
+                "grantor": "SHAKIR, DAVID",
+                "grantee": "FIFTH THIRD BANK",
+                "amount": "$9,961",
+                "lienFilingDate": "1/5/2015",
+                "propertyLienInterestRate": "4.75",
+                "personLienStatus": "Open",
+                "lienCourtCaseNumber": "COWE-14-009986"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "112934332",
+                "recordingDate": "4/17/2015",
+                "grantor": "SHAKIR, DAVID",
+                "grantee": "FIFTH THIRD BANK",
+                "amount": "$13,511",
+                "lienFilingDate": "4/15/2015",
+                "propertyLienInterestRate": "4.75",
+                "personLienStatus": "Open",
+                "lienCourtCaseNumber": "COSO-14-004952"
+              }
+            ]
+          }
+        },
+        {
+          "address": "4421 NW 9TH CT, COCONUT CREEK, FL 33066",
+          "name": "SANDRA SHAKIR",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P7812F2C",
+      "county": "BROWARD",
+      "apn": "48-42-32-01-0940",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "11201 NW 14TH ST,\nPLANTATION, FL 33323",
+      "equity": "$1,359,976",
+      "contacts": [
+        {
+          "address": "111 N PINE ISLAND RD 209, PLANTATION, FL 33324",
+          "name": "KATHERINE HYATT",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "107721040",
+                "recordingDate": "2/26/2008",
+                "grantor": "RODNEY, CATHERINE H",
+                "grantee": "CAPITAL ONE BANK",
+                "amount": "$1,686",
+                "lienFilingDate": "2/19/2008",
+                "personLienStatus": "Open",
+                "lienCourtCaseNumber": "COWE-07-017540 80"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "107833211",
+                "recordingDate": "4/17/2008",
+                "grantor": "HYATT, KATHERINE A",
+                "grantee": "CAPITAL ONE BANK",
+                "amount": "$1,686",
+                "lienFilingDate": "2/19/2008",
+                "personLienStatus": "Open",
+                "lienCourtCaseNumber": "COWE-07-017540 80"
+              },
+              {
+                "documentType": "SLN",
+                "documentNumber": "110427205",
+                "recordingDate": "12/13/2011",
+                "grantor": "HYATT, MARK R",
+                "grantee": "FLORIDA DEPARTMENT OF REVENUE",
+                "amount": "$10,801",
+                "lienFilingDate": "12/12/2011",
+                "personLienStatus": "Open",
+                "lienType": "DOCUMENTARY STAMP TAX",
+                "lienNumber": "1000000243977"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "114820648",
+                "recordingDate": "1/9/2018",
+                "grantor": "HYATT, KATHERINE A",
+                "grantee": "VALLEY NATIONAL BANK",
+                "amount": "$21,812",
+                "lienFilingDate": "1/3/2018",
+                "propertyLienInterestRate": "5.53",
+                "personLienStatus": "Open",
+                "lienContractDate": "2018-01-03",
+                "lienCourtCaseNumber": "17-002275-18"
+              },
+              {
+                "documentType": "MOD",
+                "documentNumber": "115083412",
+                "recordingDate": "5/17/2018",
+                "grantor": "HYATT, MARK R",
+                "grantee": "VALLEY NATIONAL BANK",
+                "amount": "$21,721"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "116021967",
+                "recordingDate": "8/28/2019",
+                "grantor": "HYATT, KATHERINE ANN",
+                "grantee": "HYATT, MARK RICHARD",
+                "amount": "$10,933",
+                "lienFilingDate": "8/22/2019",
+                "personLienStatus": "Open",
+                "lienContractDate": "2019-08-22",
+                "lienCourtCaseNumber": "18-000977"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "116055302",
+                "recordingDate": "9/17/2019",
+                "grantor": "HYATT, KATHERINE ANN",
+                "grantee": "HYATT, MARK RICHARD",
+                "amount": "$10,933",
+                "lienFilingDate": "8/22/2019",
+                "personLienStatus": "Open",
+                "lienContractDate": "2019-08-22",
+                "lienCourtCaseNumber": "18-000977(33/90)"
+              },
+              {
+                "documentType": "FLN",
+                "documentNumber": "117128665",
+                "recordingDate": "3/17/2021",
+                "grantor": "HYATT, KATHERINE A",
+                "grantee": "INTERNAL REVENUE SERVICE",
+                "amount": "$59,404",
+                "lienFilingDate": "3/9/2021",
+                "personLienStatus": "Open",
+                "lienType": "1040",
+                "lienNumber": "426012321"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "117935493",
+                "recordingDate": "2/14/2022",
+                "grantor": "HYATT, KATHERINE ANN",
+                "grantee": "ESTATE OF MARK R HYATT",
+                "amount": "$22,135",
+                "lienFilingDate": "8/22/2019",
+                "personLienStatus": "Open",
+                "lienContractDate": "2022-02-08",
+                "lienCourtCaseNumber": "18-000977 (33/90)"
+              }
+            ]
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P781D903",
+      "county": "BROWARD",
+      "apn": "49-40-36-56-0020",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "5447 NW 59TH PL,\nTAMARAC, FL 33319",
+      "equity": "$130,911",
+      "contacts": [
+        {
+          "address": "5447 NW 59TH PL, TAMARAC, FL 33319",
+          "name": "SANDRA BARRERA",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "116379115",
+                "recordingDate": "2/27/2020",
+                "grantor": "CORREDOR, SANDRA L",
+                "grantee": "DISCOVER BANK",
+                "amount": "$14,787",
+                "lienFilingDate": "2/24/2020",
+                "propertyLienInterestRate": "6.83",
+                "personLienStatus": "Open",
+                "lienContractDate": "2020-02-24",
+                "lienCourtCaseNumber": "CONO-19-007197"
+              }
+            ]
+          }
+        },
+        {
+          "address": "5447 NW 59TH PL, TAMARAC, FL 33319",
+          "name": "JULIO BARRERA",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P78257A5",
+      "county": "BROWARD",
+      "apn": "49-41-11-14-1580",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "4910 NW 16TH ST,\nLAUDERHILL, FL 33313",
+      "equity": "$148,575",
+      "contacts": [
+        {
+          "address": "20110 NW 34TH AVE, MIAMI GARDENS, FL 33056",
+          "name": "XAVIER GRIFFITHS",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        },
+        {
+          "address": "20110 NW 34TH AVE, MIAMI GARDENS, FL 33056",
+          "name": "ANNE PANTON KRISHEL",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "563911",
+                "recordingDate": "8/10/2012",
+                "grantor": "PANTON, KRISHEL A",
+                "grantee": "UNIFUND CCR PARTNERS GP",
+                "amount": "$2,297",
+                "lienFilingDate": "8/6/2012",
+                "personLienStatus": "Open",
+                "lienContractDate": "2012-08-06",
+                "lienCourtCaseNumber": "06-07589-SP25-2"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "158724",
+                "recordingDate": "3/30/2016",
+                "grantor": "PANTON, KRISHEL",
+                "grantee": "ASSET ACCEPTANCE LLC",
+                "amount": "$8,493",
+                "lienFilingDate": "2/9/2016",
+                "propertyLienInterestRate": "9.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2016-02-09",
+                "lienCourtCaseNumber": "07-17734-SP-25"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "731174",
+                "recordingDate": "12/17/2020",
+                "grantor": "PANTON, KRISHEL",
+                "grantee": "ASSET ACCEPTANCE LLC",
+                "amount": "$18,435",
+                "lienFilingDate": "12/17/2020",
+                "personLienStatus": "Open",
+                "lienContractDate": "2020-12-17",
+                "lienCourtCaseNumber": "2007-017734-SP-25"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "304098",
+                "recordingDate": "4/22/2024",
+                "grantor": "PANTON, KRISHEL A",
+                "grantee": "UNIFUND C C R PARTNERS (GP)",
+                "amount": "$12,110",
+                "lienFilingDate": "4/19/2024",
+                "propertyLienInterestRate": "9.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2024-04-19",
+                "lienCourtCaseNumber": "2006-007589-SP-25"
+              }
+            ]
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P783759A",
+      "county": "BROWARD",
+      "apn": "49-41-36-06-0240",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "141 NW 45TH ST,\nFORT LAUDERDALE, FL 33309",
+      "equity": "$143,090",
+      "contacts": [
+        {
+          "address": "141 NW 45TH ST, FORT LAUDERDALE, FL 33309",
+          "name": "DARIO CAMARA",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "108111659",
+                "recordingDate": "8/28/2008",
+                "grantor": "CAMARA, DARIO L",
+                "grantee": "ASSET ACCEPTANCE LLC",
+                "amount": "$2,002",
+                "lienFilingDate": "8/11/2008",
+                "personLienStatus": "Open",
+                "lienCourtCaseNumber": "084965COWE 83"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "118023562",
+                "recordingDate": "3/22/2022",
+                "grantor": "CAMARA, DARIO L",
+                "grantee": "CAVALRY SPV I LLC",
+                "amount": "$10,451",
+                "lienFilingDate": "3/18/2022",
+                "propertyLienInterestRate": "4.25",
+                "personLienStatus": "Open",
+                "lienContractDate": "2022-03-18",
+                "lienCourtCaseNumber": "COCE21069867"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "118049025",
+                "recordingDate": "4/1/2022",
+                "grantor": "CAMARA, DARIO L",
+                "grantee": "CAVALRY SPV I LLC",
+                "amount": "$10,451",
+                "lienFilingDate": "3/18/2022",
+                "propertyLienInterestRate": "4.25",
+                "personLienStatus": "Open",
+                "lienContractDate": "2022-03-18",
+                "lienCourtCaseNumber": "COCE21069867"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "118217023",
+                "recordingDate": "6/16/2022",
+                "grantor": "CAMARA, DARIO L",
+                "grantee": "CAPITAL ONE BANK USA NA",
+                "amount": "$3,657",
+                "lienFilingDate": "6/15/2022",
+                "personLienStatus": "Open",
+                "lienContractDate": "2022-06-15",
+                "lienCourtCaseNumber": "COCE22005957"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "118720206",
+                "recordingDate": "3/8/2023",
+                "grantor": "CAMARA, DARIO J",
+                "grantee": "CAVALRY SPV I LLC",
+                "amount": "$11,123",
+                "lienFilingDate": "3/7/2023",
+                "personLienStatus": "Open",
+                "lienContractDate": "2023-03-07",
+                "lienCourtCaseNumber": "COCE21069867"
+              }
+            ]
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P7840530",
+      "county": "BROWARD",
+      "apn": "49-42-15-01-3450",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "4395 NW 10TH TER,\nFORT LAUDERDALE, FL 33309",
+      "equity": "$231,450",
+      "contacts": [
+        {
+          "address": "4395 NW 10TH TER, FORT LAUDERDALE, FL 33309",
+          "name": "SCOTT SWINSON",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "107686293",
+                "recordingDate": "2/8/2008",
+                "grantor": "SWINSON, SCOTT E",
+                "grantee": "FORD MOTOR CREDIT CO",
+                "amount": "$10,983",
+                "lienFilingDate": "1/31/2008",
+                "personLienStatus": "Open",
+                "lienCourtCaseNumber": "07-10674 COSO 62"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "107752522",
+                "recordingDate": "3/11/2008",
+                "grantor": "SWINSON, SCOTT E",
+                "grantee": "FORD MOTOR CREDIT CO",
+                "amount": "$9,233",
+                "lienFilingDate": "1/31/2008",
+                "personLienStatus": "Open",
+                "lienCourtCaseNumber": "07-10674 COSO 62"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "115012320",
+                "recordingDate": "4/13/2018",
+                "grantor": "SWINSON, SCOTT E",
+                "grantee": "FORD MOTOR CREDIT CO",
+                "amount": "$9,243",
+                "lienFilingDate": "1/31/2008",
+                "propertyLienInterestRate": "10.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2008-01-31",
+                "lienCourtCaseNumber": "07-10674 COSO-62"
+              }
+            ]
+          }
+        },
+        {
+          "address": "4395 NW 10TH TER, FORT LAUDERDALE, FL 33309",
+          "name": "SHAENA CLEMENT",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P7843097",
+      "county": "BROWARD",
+      "apn": "49-42-21-04-0010",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "2461 NW 13TH CT,\nFORT LAUDERDALE, FL 33311",
+      "equity": "$126,625",
+      "contacts": [
+        {
+          "address": "2461 NW 13TH CT, FORT LAUDERDALE, FL 33311",
+          "name": "ANTHONY WEAVER",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        },
+        {
+          "address": "2461 NW 13TH CT, FORT LAUDERDALE, FL 33311",
+          "name": "JOSEPH SMITH",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "306493",
+                "recordingDate": "3/26/2007",
+                "grantor": "SMITH, JOSEPH ANTHONY",
+                "grantee": "SOUTH FLORIDA EDUCATIONAL FCU",
+                "amount": "$18,866",
+                "lienFilingDate": "3/23/2007",
+                "propertyLienInterestRate": "10.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2007-03-23",
+                "lienCourtCaseNumber": "06-983 CC 26 (04)"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "347253",
+                "recordingDate": "4/6/2007",
+                "grantor": "SMITH, JOSEPH ANTHONY",
+                "grantee": "SOUTH FLORIDA EDUCATIONAL FCU",
+                "amount": "$18,866",
+                "lienFilingDate": "3/23/2007",
+                "propertyLienInterestRate": "10.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2007-03-23",
+                "lienCourtCaseNumber": "06-983 CC 26 (04)"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "86787",
+                "recordingDate": "2/14/2017",
+                "grantor": "SMITH, JOSEPH ANTHONY",
+                "grantee": "SOUTH FLORIDA EDUCATIONAL FCU",
+                "amount": "$18,866",
+                "lienFilingDate": "3/23/2007",
+                "propertyLienInterestRate": "10.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2007-03-23",
+                "lienCourtCaseNumber": "06-983 CC 26-04"
+              }
+            ]
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P784918C",
+      "county": "BROWARD",
+      "apn": "49-42-32-01-1670",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "16653 GOLFVIEW DR,\nWESTON, FL 33326",
+      "equity": "$522,757",
+      "contacts": [
+        {
+          "address": "16653 GOLFVIEW DR, WESTON, FL 33326",
+          "name": "LUIS EDUARDO ROLANDO",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "110951442",
+                "recordingDate": "8/17/2012",
+                "grantor": "ROLANDO, LUIS",
+                "grantee": "AMERICAN EXPRESS BANK FSB",
+                "amount": "$21,294",
+                "lienFilingDate": "8/1/2012",
+                "propertyLienInterestRate": "4.75",
+                "personLienStatus": "Open",
+                "lienCourtCaseNumber": "CACE-12-007971-04"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "111406518",
+                "recordingDate": "3/21/2013",
+                "grantor": "ROLANDO, LUIS E",
+                "grantee": "AMERICAN EXPRESS BANK FSB",
+                "amount": "$8,668",
+                "lienFilingDate": "3/7/2013",
+                "propertyLienInterestRate": "4.75",
+                "personLienStatus": "Open",
+                "lienCourtCaseNumber": "12-05245-COWE-80"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "111729062",
+                "recordingDate": "8/9/2013",
+                "grantor": "ROLANDO, LUIS E",
+                "grantee": "AMERICAN EXPRESS BANK FSB",
+                "amount": "$8,668",
+                "lienFilingDate": "3/7/2013",
+                "propertyLienInterestRate": "4.75",
+                "personLienStatus": "Open",
+                "lienCourtCaseNumber": "12-05245-COWE-80"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "113823942",
+                "recordingDate": "7/21/2016",
+                "grantor": "ROLANDO, LUIS E",
+                "grantee": "CROWN ASSET MANAGEMENT LLC",
+                "amount": "$19,121",
+                "lienFilingDate": "7/18/2016",
+                "propertyLienInterestRate": "4.78",
+                "personLienStatus": "Open",
+                "lienContractDate": "2016-07-18",
+                "lienCourtCaseNumber": "CACE-15-007849-25"
+              }
+            ]
+          }
+        },
+        {
+          "address": "16653 GOLFVIEW DR, WESTON, FL 33326",
+          "name": "JULIA ROLANDO",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P7855BBD",
+      "county": "BROWARD",
+      "apn": "50-40-05-03-0190",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "5130 SW 40TH AVE 5B,\nFORT LAUDERDALE, FL 33314",
+      "equity": "$231,733",
+      "contacts": [
+        {
+          "address": "2853 HIDDEN HARBOUR CT, FORT LAUDERDALE, FL 33312",
+          "name": "BONNIE MARTOCCHIO",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "110292773",
+                "recordingDate": "9/27/2011",
+                "grantor": "LONDON, BONNIE",
+                "grantee": "ADVANTA BANK CORP",
+                "amount": "$14,090",
+                "lienFilingDate": "8/17/2011",
+                "propertyLienInterestRate": "6.00",
+                "personLienStatus": "Open",
+                "lienCourtCaseNumber": "11-314-80"
+              },
+              {
+                "documentType": "MOD",
+                "documentNumber": "117478573",
+                "recordingDate": "8/4/2021",
+                "grantor": "LONDON, BONNIE",
+                "grantee": "ADVANTA BANK CORP",
+                "amount": "$14,090"
+              }
+            ]
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P78755CE",
+      "county": "BROWARD",
+      "apn": "50-42-31-AB-0050",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "6682 SEGOVIA WAY,\nFORT LAUDERDALE, FL 33331",
+      "equity": "$753,712",
+      "contacts": [
+        {
+          "address": "6682 SEGOVIA WAY, FORT LAUDERDALE, FL 33331",
+          "name": "KENNETH M DREYFUSS",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        },
+        {
+          "address": "6682 SEGOVIA WAY, FORT LAUDERDALE, FL 33331",
+          "name": "JUDITH DREYFUSS",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "51312",
+                "recordingDate": "1/18/2008",
+                "grantor": "DREYFUSS, JEROME S",
+                "grantee": "NATIONSBANK NA",
+                "amount": "$264,586",
+                "lienFilingDate": "12/19/2000",
+                "propertyLienInterestRate": "10.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2000-12-19",
+                "lienCourtCaseNumber": "99-22801 CA 15"
+              }
+            ]
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P787A6FB",
+      "county": "BROWARD",
+      "apn": "51-40-05-21-1020",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "2300 NW 127TH AVE,\nPEMBROKE PINES, FL 33028",
+      "equity": "$610,812",
+      "contacts": [
+        {
+          "address": "2300 NW 127TH AVE, PEMBROKE PINES, FL 33028",
+          "name": "ASJHA JONES",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "18458",
+                "recordingDate": "7/30/2018",
+                "grantor": "JONES, ASJHA T",
+                "grantee": "REGIONS BANK NA",
+                "amount": "$69,371",
+                "lienFilingDate": "5/22/2018",
+                "personLienStatus": "Open",
+                "lienContractDate": "2018-07-25",
+                "lienCourtCaseNumber": "2016V-0592"
+              }
+            ]
+          }
+        },
+        {
+          "address": "2300 NW 127TH AVE, PEMBROKE PINES, FL 33028",
+          "name": "JENNIFER NOLAN",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "840974",
+                "recordingDate": "5/26/2011",
+                "grantor": "NOLAN, JENNIFER S",
+                "grantee": "CAPITAL ONE BANK USA NA",
+                "amount": "$3,110",
+                "lienFilingDate": "5/12/2011",
+                "personLienStatus": "Open",
+                "lienCourtCaseNumber": "2010-MAG-5605"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "464248",
+                "recordingDate": "11/29/2012",
+                "grantor": "NOLAN, JENNIFER S",
+                "grantee": "HSBC BANK NEVADA NA",
+                "amount": "$2,536",
+                "lienFilingDate": "4/18/2012",
+                "personLienStatus": "Open",
+                "lienContractDate": "2012-11-21",
+                "lienCourtCaseNumber": "2012-MAG-1989"
+              }
+            ]
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P787C174",
+      "county": "BROWARD",
+      "apn": "51-40-10-02-1020",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "12014 SW 2ND ST,\nPEMBROKE PINES, FL 33025",
+      "equity": "$429,575",
+      "contacts": [
+        {
+          "address": "12014 SW 2ND ST, PEMBROKE PINES, FL 33025",
+          "name": "AARON GUTZMER",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        },
+        {
+          "address": "12014 SW 2ND ST, PEMBROKE PINES, FL 33025",
+          "name": "DOMINIK NEIL SWABY",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "215603",
+                "recordingDate": "4/12/2016",
+                "grantor": "SWABY, DOMINIK N",
+                "grantee": "SECURED FOUNDATION LLC",
+                "amount": "$114,200",
+                "lienFilingDate": "4/12/2016",
+                "propertyLienInterestRate": "4.78",
+                "personLienStatus": "Open",
+                "lienContractDate": "2016-04-12",
+                "lienCourtCaseNumber": "2015-019294-CA-01"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "316358",
+                "recordingDate": "5/31/2016",
+                "grantor": "FLORIDA CONSTRUCTION INC",
+                "grantee": "SECURED FOUNDATION LLC",
+                "amount": "$16,407",
+                "lienFilingDate": "5/22/2016",
+                "propertyLienInterestRate": "4.78",
+                "personLienStatus": "Open",
+                "lienContractDate": "2016-05-22",
+                "lienCourtCaseNumber": "2015-019294-CA-01"
+              }
+            ]
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P787D8CF",
+      "county": "BROWARD",
+      "apn": "51-40-13-17-0398",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "11641 SW 12TH ST,\nPEMBROKE PINES, FL 33025",
+      "equity": "$651,606",
+      "contacts": [
+        {
+          "address": "11641 SW 12TH ST, PEMBROKE PINES, FL 33025",
+          "name": "ROSANNE MORANTZ",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        },
+        {
+          "address": "11641 SW 12TH ST, PEMBROKE PINES, FL 33025",
+          "name": "S HARVEY",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        },
+        {
+          "address": "11641 SW 12TH ST, PEMBROKE PINES, FL 33025",
+          "name": "R M MORANTZ HARVEY",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "MOD",
+                "documentNumber": "206757",
+                "recordingDate": "9/12/2014",
+                "grantor": "HARVEY, R M",
+                "grantee": "FLORIDA TRANSCOR INC",
+                "amount": "$3,563"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "256135",
+                "recordingDate": "11/12/2014",
+                "grantor": "HARVEY, R M",
+                "grantee": "FLORIDA TRANSCOR INC",
+                "amount": "$49",
+                "lienFilingDate": "11/10/2014",
+                "personLienStatus": "Open",
+                "lienCourtCaseNumber": "16-2014-SC-000851-XX"
+              },
+              {
+                "documentType": "MOD",
+                "documentNumber": "279067",
+                "recordingDate": "12/8/2015",
+                "grantor": "HARVEY, R M",
+                "grantee": "FLORIDA TRANSCOR INC",
+                "amount": "$3,563"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "541401",
+                "recordingDate": "8/28/2019",
+                "grantor": "HARVEY, R M",
+                "grantee": "TREKKER TRACTOR LLC",
+                "amount": "$21,048",
+                "lienFilingDate": "8/27/2019",
+                "propertyLienInterestRate": "6.77",
+                "personLienStatus": "Open",
+                "lienContractDate": "2019-08-27",
+                "lienCourtCaseNumber": "2017-029879-CA-01"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "491453",
+                "recordingDate": "8/11/2022",
+                "grantor": "HARVEY, RICHARD M",
+                "grantee": "BOBS BARRICADES INC",
+                "amount": "$7,534",
+                "propertyLienInterestRate": "4.34",
+                "personLienStatus": "Open",
+                "lienCourtCaseNumber": "2022-SC-016510-O"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "235003",
+                "recordingDate": "9/12/2022",
+                "grantor": "HARVEY, RICHARD M",
+                "grantee": "BOB=S BARRICADES INC",
+                "amount": "$7,534",
+                "propertyLienInterestRate": "4.34",
+                "personLienStatus": "Open",
+                "lienCourtCaseNumber": "2022-SC-016510-O"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "89421",
+                "recordingDate": "9/19/2022",
+                "grantor": "HARVEY, R M",
+                "grantee": "BOBS BARRICADES INC",
+                "amount": "$7,534",
+                "propertyLienInterestRate": "4.34",
+                "personLienStatus": "Open",
+                "lienCourtCaseNumber": "2022-SC-016510-O"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "4009493",
+                "recordingDate": "10/11/2022",
+                "grantor": "HARVEY, RICHARD M",
+                "grantee": "BOB=S BARRICADES INC",
+                "amount": "$7,534",
+                "lienFilingDate": "9/13/2022",
+                "propertyLienInterestRate": "4.34",
+                "personLienStatus": "Open",
+                "lienContractDate": "2022-09-13",
+                "lienCourtCaseNumber": "2022-SC-016510-O"
+              }
+            ]
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P7882151",
+      "county": "BROWARD",
+      "apn": "51-40-24-07-0720",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "3401 SW 128TH AVE,\nMIRAMAR, FL 33027",
+      "equity": "$549,051",
+      "contacts": [
+        {
+          "address": "6620 MIAMI LAKEWAY S, MIAMI LAKES, FL 33014",
+          "name": "ORESTES REGALADO JR",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "236044",
+                "recordingDate": "3/8/2007",
+                "grantor": "REGALADO, ORESTES",
+                "grantee": "ASSET ACCEPTANCE LLC",
+                "amount": "$24,854",
+                "lienFilingDate": "3/6/2007",
+                "propertyLienInterestRate": "10.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2007-03-06",
+                "lienCourtCaseNumber": "07-1015-CC-25-1"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "743697",
+                "recordingDate": "10/18/2012",
+                "grantor": "REGALADO, ORESTES",
+                "grantee": "CAPITAL ONE BANK (USA) NA",
+                "amount": "$2,123",
+                "lienFilingDate": "10/15/2012",
+                "propertyLienInterestRate": "4.75",
+                "personLienStatus": "Open",
+                "lienContractDate": "2012-10-15",
+                "lienCourtCaseNumber": "12-12580SP23-4"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "68484",
+                "recordingDate": "2/3/2015",
+                "grantor": "REGALADO, ORESTES",
+                "grantee": "ASSET ACCEPTANCE LLC",
+                "amount": "$24,854",
+                "lienFilingDate": "3/6/2007",
+                "propertyLienInterestRate": "10.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2007-03-06",
+                "lienCourtCaseNumber": "07-1015-CC-25-1"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "409360",
+                "recordingDate": "7/14/2016",
+                "grantor": "REGALADO, ORESTES",
+                "grantee": "ASSET ACCEPTANCE LLC",
+                "amount": "$24,854",
+                "lienFilingDate": "3/6/2007",
+                "propertyLienInterestRate": "10.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2007-03-06",
+                "lienCourtCaseNumber": "07-1015-CC-25-1"
+              }
+            ]
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P78833B5",
+      "county": "BROWARD",
+      "apn": "51-40-26-01-0430",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "317 NW 103RD TER,\nPEMBROKE PINES, FL 33026",
+      "equity": "$139,691",
+      "contacts": [
+        {
+          "address": "170921 PO BOX, HIALEAH, FL 33017",
+          "name": "LUIS RAFAEL RODRIGUEZ",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "116683264",
+                "recordingDate": "8/21/2020",
+                "grantor": "RODRIGUEZ, LUIS",
+                "grantee": "CITIBANK NA",
+                "amount": "$4,140",
+                "lienFilingDate": "8/19/2020",
+                "personLienStatus": "Open",
+                "lienContractDate": "2020-08-19",
+                "lienCourtCaseNumber": "COS0-20-004267"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "116848644",
+                "recordingDate": "11/6/2020",
+                "grantor": "RODRIGUEZ, LUIS",
+                "grantee": "CITIBANK NA",
+                "amount": "$4,140",
+                "lienFilingDate": "8/19/2020",
+                "personLienStatus": "Open",
+                "lienContractDate": "2020-08-19",
+                "lienCourtCaseNumber": "COSO-20-004267 60"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "117735523",
+                "recordingDate": "11/15/2021",
+                "grantor": "RODRIGUEZ, LUIS",
+                "grantee": "GOLDMAN SACHS BANK USA",
+                "amount": "$16,710",
+                "lienFilingDate": "11/12/2021",
+                "personLienStatus": "Open",
+                "lienContractDate": "2021-11-12",
+                "lienCourtCaseNumber": "CONO21013986"
+              }
+            ]
+          }
+        },
+        {
+          "address": "170921 PO BOX, HIALEAH, FL 33017",
+          "name": "JENNIFER RODRIGUEZ",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P788F4A6",
+      "county": "BROWARD",
+      "apn": "51-41-18-07-0353",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "1471 SW 86TH AVE,\nPEMBROKE PINES, FL 33025",
+      "equity": "$314,316",
+      "contacts": [
+        {
+          "address": "1471 SW 86TH AVE, PEMBROKE PINES, FL 33025",
+          "name": "SUMIKO RUSSELL",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "107587377",
+                "recordingDate": "12/26/2007",
+                "grantor": "RILEY, SUMIKO M",
+                "grantee": "ASSET ACCEPTANCE LLC",
+                "amount": "$1,546",
+                "lienFilingDate": "12/4/2007",
+                "personLienStatus": "Open",
+                "lienCourtCaseNumber": "0618214COWE 80"
+              },
+              {
+                "documentType": "MOD",
+                "documentNumber": "115993188",
+                "recordingDate": "8/14/2019",
+                "grantor": "RUSSELL, SUMIKO",
+                "grantee": "PORTFOLIO RECOVERY ASSOCIATES",
+                "amount": "$2,442"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "116153182",
+                "recordingDate": "11/4/2019",
+                "grantor": "RUSSELL, SUMIKO",
+                "grantee": "PORTFOLIO RECOVERY ASSOCIATES",
+                "amount": "$2,442",
+                "lienFilingDate": "8/14/2019",
+                "personLienStatus": "Open",
+                "lienContractDate": "2019-08-14",
+                "lienCourtCaseNumber": "COCE19014184"
+              }
+            ]
+          }
+        },
+        {
+          "address": "1471 SW 86TH AVE, PEMBROKE PINES, FL 33025",
+          "name": "ETHIOPIA RUSSELL",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P78910F8",
+      "county": "BROWARD",
+      "apn": "51-41-21-14-1220",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "2236 TAYLOR ST 12,\nHOLLYWOOD, FL 33020",
+      "equity": "$159,434",
+      "contacts": [
+        {
+          "address": "514 KNOX AVE, WILMETTE, IL 60091",
+          "name": "DANIEL BUF",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "11004070",
+                "recordingDate": "4/20/2009",
+                "grantor": "BUF, DANIEL S",
+                "grantee": "DAIMLERCHRYSLER FIN'L SVCS AME",
+                "amount": "$24,409",
+                "lienFilingDate": "3/12/2009",
+                "personLienStatus": "Open",
+                "lienCourtCaseNumber": "08M1 193559"
+              }
+            ]
+          }
+        },
+        {
+          "address": "514 KNOX AVE, WILMETTE, IL 60091",
+          "name": "DIANA IOSIF",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P789E1DB",
+      "county": "BROWARD",
+      "apn": "51-42-16-HC-0120",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "3451 SW 52ND AVE,\nHOLLYWOOD, FL 33023",
+      "equity": "$204,507",
+      "contacts": [
+        {
+          "address": "6432 NW 78TH PL, PARKLAND, FL 33067",
+          "name": "SHELDON NEIL",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "115996037",
+                "recordingDate": "8/15/2019",
+                "grantor": "NEIL, SHELDON",
+                "grantee": "ABSOLUTE RESOLUTIONS INVESTMEN",
+                "amount": "$19,628",
+                "lienFilingDate": "8/13/2019",
+                "propertyLienInterestRate": "6.77",
+                "personLienStatus": "Open",
+                "lienContractDate": "2019-08-13",
+                "lienCourtCaseNumber": "CACE-18-027714(03)"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "116922211",
+                "recordingDate": "12/11/2020",
+                "grantor": "NEIL, SHELDON",
+                "grantee": "DISCOVER BANK",
+                "amount": "$26,148",
+                "lienFilingDate": "12/10/2020",
+                "propertyLienInterestRate": "6.89",
+                "personLienStatus": "Open",
+                "lienContractDate": "2020-12-10",
+                "lienCourtCaseNumber": "CACE18013244"
+              }
+            ]
+          }
+        },
+        {
+          "address": "6432 NW 78TH PL, PARKLAND, FL 33067",
+          "name": "ADRIAN NEIL",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P78A967C",
+      "county": "BROWARD",
+      "apn": "51-42-30-23-0260",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "N/A",
+      "equity": "N/A",
+      "contacts": [
+        {
+          "address": "1000 KINGS HWY 435, PUNTA GORDA, FL 33980",
+          "name": "COLLEEN BARNES",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "1945828",
+                "recordingDate": "6/25/2010",
+                "grantor": "BARNES, COLLEEN F",
+                "grantee": "DISCOVER BANK",
+                "amount": "$7,663",
+                "lienFilingDate": "6/22/2010",
+                "propertyLienInterestRate": "6.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2010-06-22",
+                "lienCourtCaseNumber": "09-843-CC"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "1964781",
+                "recordingDate": "9/16/2010",
+                "grantor": "MCCABE, COLLEEN",
+                "grantee": "HSBC",
+                "amount": "$16,154",
+                "lienFilingDate": "9/13/2010",
+                "propertyLienInterestRate": "6.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2010-09-13",
+                "lienCourtCaseNumber": "08-1585-CC"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "1991344",
+                "recordingDate": "1/18/2011",
+                "grantor": "MCCABE, COLLEEN",
+                "grantee": "HSBC",
+                "amount": "$16,154",
+                "lienFilingDate": "9/13/2010",
+                "propertyLienInterestRate": "6.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2010-09-13",
+                "lienCourtCaseNumber": "08-1585-CC"
+              }
+            ]
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P78C1DB7",
+      "county": "CHARLOTTE",
+      "apn": "402307136911",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "26272 RAMPART BLVD 102,\nPUNTA GORDA, FL 33983",
+      "equity": "$143,989",
+      "contacts": [
+        {
+          "address": "26272 RAMPART BLVD 102, PUNTA GORDA, FL 33983",
+          "name": "CHERYL PARVINO",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P78C295D",
+      "county": "CHARLOTTE",
+      "apn": "402309455002",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "6388 SWEDEN BLVD,\nPUNTA GORDA, FL 33982",
+      "equity": "$458,652",
+      "contacts": [
+        {
+          "address": "6388 SWEDEN BLVD, PUNTA GORDA, FL 33982",
+          "name": "JOEL BRECHEMIN",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "2277628",
+                "recordingDate": "6/30/2014",
+                "grantor": "BRECHEMIN, JOEL",
+                "grantee": "WOLZ, DEANNA",
+                "amount": "$150,000",
+                "lienFilingDate": "6/26/2014",
+                "propertyLienInterestRate": "4.75",
+                "personLienStatus": "Open",
+                "lienContractDate": "2014-06-26",
+                "lienCourtCaseNumber": "13-003011-CA"
+              }
+            ]
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P78D74DC",
+      "county": "CHARLOTTE",
+      "apn": "412301427007",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "535 MILUS ST,\nPUNTA GORDA, FL 33950",
+      "equity": "$366,996",
+      "contacts": [
+        {
+          "address": "2445 MINNEOLA AVE, PUNTA GORDA, FL 33980",
+          "name": "JASON BINGHAM MCMAHAN",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "62376",
+                "recordingDate": "4/10/2008",
+                "grantor": "MCMAHAN, JASON",
+                "grantee": "FORD MOTOR CREDIT CO",
+                "amount": "$16,106",
+                "lienFilingDate": "4/10/2008",
+                "propertyLienInterestRate": "10.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2008-04-10",
+                "lienCourtCaseNumber": "06 CC 006734"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "69709",
+                "recordingDate": "4/23/2008",
+                "grantor": "MCMAHAN, JASON",
+                "grantee": "FORD MOTOR CREDIT CO",
+                "amount": "$16,106",
+                "lienFilingDate": "4/10/2008",
+                "propertyLienInterestRate": "10.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2008-04-10",
+                "lienCourtCaseNumber": "06 CC 006734"
+              },
+              {
+                "documentType": "FLN",
+                "documentNumber": "138052",
+                "recordingDate": "8/31/2010",
+                "grantor": "MCMAHON, JASON B",
+                "grantee": "INTERNAL REVENUE SERVICE",
+                "amount": "$15,633",
+                "lienFilingDate": "8/24/2010",
+                "personLienStatus": "Open",
+                "lienType": "1040",
+                "lienNumber": "691823710"
+              }
+            ]
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P78D8336",
+      "county": "CHARLOTTE",
+      "apn": "412306477014",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "461 CLEARVIEW CT,\nORANGE PARK, FL 32065",
+      "equity": "$155,006",
+      "contacts": [
+        {
+          "address": "461 CLEARVIEW CT, ORANGE PARK, FL 32065",
+          "name": "DOROTHY BARRA",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        },
+        {
+          "address": "461 CLEARVIEW CT, ORANGE PARK, FL 32065",
+          "name": "ANTHONY BARRA",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "21359",
+                "recordingDate": "5/2/2023",
+                "grantor": "BARRA, ANTHONY B",
+                "grantee": "OAKLEAF PLANTATION PROPERTY OW",
+                "amount": "$11,309",
+                "lienFilingDate": "5/2/2023",
+                "personLienStatus": "Open",
+                "lienContractDate": "2023-05-02",
+                "lienCourtCaseNumber": "2022-CC-730"
+              }
+            ]
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P78E397C",
+      "county": "CLAY",
+      "apn": "04-04-25-007867-020-39",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "2061 PINE ISLE LN 2061,\nNAPLES, FL 34112",
+      "equity": "$290,027",
+      "contacts": [
+        {
+          "address": "1173 RIDGE LAKE DR, MINERAL RIDGE, OH 44440",
+          "name": "MICHAEL NAPLES JR",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        },
+        {
+          "address": "505 BLACKSTONE CT, DANVILLE, CA 94506",
+          "name": "ANTHONY J NAPLES",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "71037",
+                "recordingDate": "5/21/2012",
+                "grantor": "NAPLES, ANTHONY JOHN",
+                "grantee": "NAPLES, MARY E",
+                "amount": "$30,642",
+                "lienFilingDate": "1/17/2012",
+                "personLienStatus": "Open",
+                "lienContractDate": "2012-05-21",
+                "lienCourtCaseNumber": "PRO 120567"
+              }
+            ]
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P7907847",
+      "county": "COLLIER",
+      "apn": "24220001221",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "1135 MEDAN CT N 32,\nNAPLES, FL 34113",
+      "equity": "$485,863",
+      "contacts": [
+        {
+          "address": "300 CANAL ST 503, LAWRENCE, MA 01840",
+          "name": "RICHARD FARESE",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        },
+        {
+          "address": "300 CANAL ST 503, LAWRENCE, MA 01840",
+          "name": "ROSANNE FARESE",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "5802068",
+                "recordingDate": "12/11/2019",
+                "grantor": "FARESE, ROSANNE T",
+                "grantee": "DISCOVER BANK",
+                "amount": "$14,186",
+                "lienFilingDate": "12/10/2019",
+                "personLienStatus": "Open",
+                "lienContractDate": "2019-12-10",
+                "lienCourtCaseNumber": "2019-CC-002077"
+              }
+            ]
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P793924A",
+      "county": "COLLIER",
+      "apn": "80394000642",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "411 MALAGA AVE,\nCORAL GABLES, FL 33134",
+      "equity": "$1,323,615",
+      "contacts": [
+        {
+          "address": "411 MALAGA AVE, CORAL GABLES, FL 33134",
+          "name": "MIRTHA PRIETO",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        },
+        {
+          "address": "47 WOLFPEN DR, CHAGRIN FALLS, OH 44022",
+          "name": "VIVIAN SUPPES",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        },
+        {
+          "address": "9911 SW 23RD ST, DAVIE, FL 33324",
+          "name": "BLAS JOSE PRIETO",
+          "documents": {
+            "banckrupcy": [
+              {
+                "caseNumber": "16-11976-RAM",
+                "recDate": "2/12/2016",
+                "status": "Dismissed"
+              }
+            ],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "828162",
+                "recordingDate": "10/9/2008",
+                "grantor": "PRIETO, BLAS JOSE",
+                "grantee": "PRIETO, CHRISTINA",
+                "amount": "$16,000",
+                "lienFilingDate": "10/8/2008",
+                "personLienStatus": "Open",
+                "lienContractDate": "2008-10-08",
+                "lienCourtCaseNumber": "2000-19143 FC 39"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "35449",
+                "recordingDate": "1/18/2012",
+                "grantor": "PRIETO, BLAS JOSE",
+                "grantee": "PRIETO, CHRISTINA M",
+                "amount": "$2,000",
+                "lienFilingDate": "10/18/2010",
+                "propertyLienInterestRate": "10.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2010-10-18",
+                "lienCourtCaseNumber": "00-19143-FC-19"
+              }
+            ]
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P7975C5A",
+      "county": "DADE",
+      "apn": "03-4117-008-4220",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "4525 E 8TH CT,\nHIALEAH, FL 33013",
+      "equity": "$412,281",
+      "contacts": [
+        {
+          "address": "4525 E 8TH CT, HIALEAH, FL 33013",
+          "name": "REINALDO LOPEZ",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "486481",
+                "recordingDate": "7/7/2009",
+                "grantor": "LOPEZ, REINALDO",
+                "grantee": "CAPITAL ONE BANK (USA) NA",
+                "amount": "$2,261",
+                "lienFilingDate": "7/6/2009",
+                "propertyLienInterestRate": "8.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2009-07-06",
+                "lienCourtCaseNumber": "09-4109-SP-23"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "189903",
+                "recordingDate": "3/22/2010",
+                "grantor": "LOPEZ, REINALDO",
+                "grantee": "CAPITAL ONE BANK (USA) NA",
+                "amount": "$2,261",
+                "lienFilingDate": "7/6/2009",
+                "propertyLienInterestRate": "8.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2009-07-06",
+                "lienCourtCaseNumber": "09-4109-SP-23"
+              }
+            ]
+          }
+        },
+        {
+          "address": "4525 E 8TH CT, HIALEAH, FL 33013",
+          "name": "DINORA LIDIA PENA",
+          "documents": {
+            "banckrupcy": [
+              {
+                "caseNumber": "14-20846",
+                "recDate": "5/12/2014",
+                "status": "Discharged"
+              }
+            ],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "47571",
+                "recordingDate": "1/21/2011",
+                "grantor": "PENA, DINORA",
+                "grantee": "FORD MOTOR CREDIT CO LLC",
+                "amount": "$4,889",
+                "lienFilingDate": "1/21/2011",
+                "propertyLienInterestRate": "6.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2011-01-21",
+                "lienCourtCaseNumber": "10-12466 SP2302"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "126522",
+                "recordingDate": "2/15/2013",
+                "grantor": "PENA, DINORA",
+                "grantee": "SUPERIOR DEBT RECOVERY LLC",
+                "amount": "$3,713",
+                "lienFilingDate": "2/13/2013",
+                "propertyLienInterestRate": "4.75",
+                "personLienStatus": "Open",
+                "lienContractDate": "2013-02-13",
+                "lienCourtCaseNumber": "12-18318SP2306"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "244738",
+                "recordingDate": "4/1/2013",
+                "grantor": "PENA, DINORA",
+                "grantee": "SUPERIOR DEBT RECOVERY LLC",
+                "amount": "$3,713",
+                "lienFilingDate": "2/13/2013",
+                "propertyLienInterestRate": "4.75",
+                "personLienStatus": "Open",
+                "lienContractDate": "2013-02-13",
+                "lienCourtCaseNumber": "12-18318SP2306"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "514706",
+                "recordingDate": "8/24/2018",
+                "grantor": "PENA, DINORA",
+                "grantee": "ITRIA VENTURES INC",
+                "amount": "$40,612",
+                "lienFilingDate": "7/25/2018",
+                "propertyLienInterestRate": "10.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2018-07-24",
+                "lienCourtCaseNumber": "18151923"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "527014",
+                "recordingDate": "8/29/2018",
+                "grantor": "BORGES, CHRISTOPHER",
+                "grantee": "UNITED AUTOMOBILE INSURANCE CO",
+                "amount": "$6,580",
+                "lienFilingDate": "8/27/2018",
+                "propertyLienInterestRate": "5.97",
+                "personLienStatus": "Open",
+                "lienContractDate": "2018-08-27",
+                "lienCourtCaseNumber": "2017-015828 CC23"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "542245",
+                "recordingDate": "9/7/2018",
+                "grantor": "PENA, DINORA",
+                "grantee": "BELIEVE FINANCIAL LLC",
+                "amount": "$13,100",
+                "lienFilingDate": "8/28/2018",
+                "propertyLienInterestRate": "5.97",
+                "personLienStatus": "Open",
+                "lienContractDate": "2018-08-27",
+                "lienCourtCaseNumber": "2018-013751 CC-25"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "718168",
+                "recordingDate": "11/28/2018",
+                "grantor": "PENA, DINORA LIDIA",
+                "grantee": "C UNITED AUTOMOBILE INSURANCE",
+                "amount": "$6,580",
+                "lienFilingDate": "8/27/2018",
+                "propertyLienInterestRate": "5.97",
+                "personLienStatus": "Open",
+                "lienContractDate": "2018-08-27",
+                "lienCourtCaseNumber": "2017-015828 CC 23"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "558917",
+                "recordingDate": "9/6/2019",
+                "grantor": "PENA, DINORA",
+                "grantee": "DIRECT CAPITAL",
+                "amount": "$126,590",
+                "lienFilingDate": "9/4/2019",
+                "propertyLienInterestRate": "6.77",
+                "personLienStatus": "Open",
+                "lienContractDate": "2019-09-04",
+                "lienCourtCaseNumber": "2019-006275-CA-01 (2"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "729321",
+                "recordingDate": "11/21/2019",
+                "grantor": "PENA, DINORA",
+                "grantee": "DIRECT CAPITAL",
+                "amount": "$126,590",
+                "lienFilingDate": "9/4/2019",
+                "propertyLienInterestRate": "6.77",
+                "personLienStatus": "Open",
+                "lienContractDate": "2019-09-04",
+                "lienCourtCaseNumber": "2019-006275-CA-01 (2"
+              }
+            ]
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P79839C5",
+      "county": "DADE",
+      "apn": "04-3105-001-2230",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "13800 NE 3RD CT 101,\nNORTH MIAMI, FL 33161",
+      "equity": "$76,093",
+      "contacts": [
+        {
+          "address": "13800 NE 3RD CT 101, NORTH MIAMI, FL 33161",
+          "name": "JEAN DAUTRUCHE",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        },
+        {
+          "address": "13800 NE 3RD CT 101, NORTH MIAMI, FL 33161",
+          "name": "SONISE DAUTRUCHE",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P7989C1D",
+      "county": "DADE",
+      "apn": "06-2219-108-0610",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "15225 NE 6TH AVE B202,\nMIAMI, FL 33162",
+      "equity": "$62,063",
+      "contacts": [
+        {
+          "address": "6 SINCLAIR DR, GREAT NECK, NY 11024",
+          "name": "OMID ELYAHOU",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P79B7FBB",
+      "county": "DADE",
+      "apn": "30-2218-046-0410",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "14833 N SPUR DR,\nMIAMI, FL 33161",
+      "equity": "$923,182",
+      "contacts": [
+        {
+          "address": "14833 N SPUR DR, MIAMI, FL 33161",
+          "name": "ALAN CAMPBELL",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "260309",
+                "recordingDate": "5/9/2017",
+                "grantor": "CAMPBELL, ALAN",
+                "grantee": "CITIBANK NA",
+                "amount": "$16,664",
+                "lienFilingDate": "5/5/2017",
+                "personLienStatus": "Open",
+                "lienContractDate": "2017-05-05",
+                "lienCourtCaseNumber": "12-27801CA01/09"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "47427",
+                "recordingDate": "1/23/2018",
+                "grantor": "CAMPBELL, ALAN",
+                "grantee": "CITIBANK NA",
+                "amount": "$16,664",
+                "lienFilingDate": "5/5/2017",
+                "personLienStatus": "Open",
+                "lienContractDate": "2017-05-05",
+                "lienCourtCaseNumber": "12-27801CA01-09"
+              }
+            ]
+          }
+        },
+        {
+          "address": "14833 N SPUR DR, MIAMI, FL 33161",
+          "name": "BRUCE CAMPBELL",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "FLN",
+                "documentNumber": "860063",
+                "recordingDate": "10/22/2008",
+                "grantor": "CAMPBELL, BRUCE",
+                "grantee": "INTERNAL REVENUE SERVICE",
+                "amount": "$22,290",
+                "lienFilingDate": "10/14/2008",
+                "personLienStatus": "Open",
+                "lienType": "1040",
+                "lienNumber": "481967608"
+              }
+            ]
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P79B8144",
+      "county": "DADE",
+      "apn": "30-2219-001-1350",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "820 SW 105TH AVE 607,\nMIAMI, FL 33174",
+      "equity": "$258,491",
+      "contacts": [
+        {
+          "address": "820 SW 105TH AVE 607, MIAMI, FL 33174",
+          "name": "SERVANDO PEREDA",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        },
+        {
+          "address": "820 SW 105TH AVE 607, MIAMI, FL 33174",
+          "name": "GERMAN PEREDA",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "741007",
+                "recordingDate": "11/26/2019",
+                "grantor": "PEREDA, GERMAN",
+                "grantee": "NORTHWEST FCU",
+                "amount": "$20,982",
+                "lienFilingDate": "11/21/2019",
+                "personLienStatus": "Open",
+                "lienContractDate": "2019-11-21",
+                "lienCourtCaseNumber": "2019-019534-CA-01"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "9075",
+                "recordingDate": "1/7/2020",
+                "grantor": "PEREDA, GERMAN",
+                "grantee": "NORTHWEST FCU",
+                "amount": "$20,982",
+                "lienFilingDate": "11/21/2019",
+                "personLienStatus": "Open",
+                "lienContractDate": "2019-11-21",
+                "lienCourtCaseNumber": "2019-019534-CA-01"
+              }
+            ]
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P79C60E7",
+      "county": "DADE",
+      "apn": "30-4008-028-0720",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "830 SW 71ST CT,\nMIAMI, FL 33144",
+      "equity": "$610,791",
+      "contacts": [
+        {
+          "address": "10340 NW 135TH ST, HIALEAH, FL 33018",
+          "name": "GONZALO ESTEVEZ SR",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "313555",
+                "recordingDate": "4/16/2008",
+                "grantor": "ESTEVEZ, GONZALO",
+                "grantee": "PALMETTO GENERAL HOSPITAL",
+                "amount": "$16,256",
+                "lienFilingDate": "4/11/2008",
+                "propertyLienInterestRate": "10.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2008-04-11",
+                "lienCourtCaseNumber": "08-6713 CC 23 (1)"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "359283",
+                "recordingDate": "5/1/2008",
+                "grantor": "ESTEVEZ, GONZALO",
+                "grantee": "PALMETTO GENERAL HOSPITAL",
+                "amount": "$16,256",
+                "lienFilingDate": "4/11/2008",
+                "propertyLienInterestRate": "10.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2008-04-11",
+                "lienCourtCaseNumber": "08-6713 CC 23 (1)"
+              }
+            ]
+          }
+        },
+        {
+          "address": "7980 NW 159TH TER, MIAMI LAKES, FL 33016",
+          "name": "NEIVIS ESTEVEZ",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P79C7ABE",
+      "county": "DADE",
+      "apn": "30-4011-015-0050",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "7000 SW 59TH ST,\nMIAMI, FL 33143",
+      "equity": "$792,691",
+      "contacts": [
+        {
+          "address": "6625 SW 61ST ST, SOUTH MIAMI, FL 33143",
+          "name": "RUSSELL GOLDMAN",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "31058",
+                "recordingDate": "1/15/2010",
+                "grantor": "GOLDMAN, RUSSELL J",
+                "grantee": "BRANCH BANKING & TRUST CO",
+                "amount": "$219,010",
+                "lienFilingDate": "1/10/2010",
+                "propertyLienInterestRate": "6.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2010-01-10",
+                "lienCourtCaseNumber": "13-2009-CA-000527-00"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "61134",
+                "recordingDate": "1/28/2010",
+                "grantor": "GOLDMAN, RUSSELL J",
+                "grantee": "BRANCH BANKING & TRUST CO",
+                "amount": "$219,010",
+                "lienFilingDate": "1/10/2010",
+                "propertyLienInterestRate": "6.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2010-01-10",
+                "lienCourtCaseNumber": "13-2009-CA-000527-00"
+              }
+            ]
+          }
+        },
+        {
+          "address": "6625 SW 61ST ST, SOUTH MIAMI, FL 33143",
+          "name": "VANESSA SEVERIANO",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        },
+        {
+          "address": "6625 SW 61ST ST, SOUTH MIAMI, FL 33143",
+          "name": "LOLA BERLINER",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P79CE51E",
+      "county": "DADE",
+      "apn": "30-4026-011-0520",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "13311 SW 2ND ST,\nMIAMI, FL 33184",
+      "equity": "$756,144",
+      "contacts": [
+        {
+          "address": "521 W DEANNA DR, FLAGSTAFF, AZ 86001",
+          "name": "CARMEN ALFONSO",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "290501",
+                "recordingDate": "4/24/2012",
+                "grantor": "ALFONSO, CARMEN",
+                "grantee": "AMERICAN EXPRESS BANK FSB",
+                "amount": "$12,869",
+                "lienFilingDate": "4/23/2012",
+                "propertyLienInterestRate": "4.75",
+                "personLienStatus": "Open",
+                "lienContractDate": "2012-04-23",
+                "lienCourtCaseNumber": "10-30589-CC-23"
+              }
+            ]
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P79D5157",
+      "county": "DADE",
+      "apn": "30-4902-005-0260",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "3073 SW 148TH PL,\nMIAMI, FL 33185",
+      "equity": "$827,389",
+      "contacts": [
+        {
+          "address": "3073 SW 148TH PL, MIAMI, FL 33185",
+          "name": "MIA CASTRO",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        },
+        {
+          "address": "3073 SW 148TH PL, MIAMI, FL 33185",
+          "name": "RAUL MESTRIL",
+          "documents": {
+            "banckrupcy": [
+              {
+                "caseNumber": "20-17450-RAM",
+                "recDate": "7/8/2020",
+                "status": "Discharged"
+              }
+            ],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "1007108",
+                "recordingDate": "12/16/2008",
+                "grantor": "MESTRIL, RAUL",
+                "grantee": "DCFS TRUST",
+                "amount": "$11,578",
+                "lienFilingDate": "12/15/2008",
+                "propertyLienInterestRate": "10.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2008-12-15",
+                "lienCourtCaseNumber": "08-12171-CC23-2"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "95613",
+                "recordingDate": "2/10/2009",
+                "grantor": "MESTRIL, RAUL",
+                "grantee": "DCFS TRUST",
+                "amount": "$11,578",
+                "lienFilingDate": "12/15/2008",
+                "propertyLienInterestRate": "10.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2008-12-15",
+                "lienCourtCaseNumber": "08-12171-CC23-2"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "121521",
+                "recordingDate": "2/19/2009",
+                "grantor": "MESTRIL, RAUL",
+                "grantee": "CAPITAL ONE BANK",
+                "amount": "$3,883",
+                "lienFilingDate": "2/10/2009",
+                "propertyLienInterestRate": "8.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2009-02-10",
+                "lienCourtCaseNumber": "08-7308-SP-23-3"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "221200",
+                "recordingDate": "3/26/2009",
+                "grantor": "MESTRIL, RAUL",
+                "grantee": "CAPITAL ONE BANK",
+                "amount": "$3,883",
+                "lienFilingDate": "2/10/2009",
+                "propertyLienInterestRate": "8.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2009-02-10",
+                "lienCourtCaseNumber": "08-7308-SP-23-3"
+              }
+            ]
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P79DA607",
+      "county": "DADE",
+      "apn": "30-4916-037-0110",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "4601 SW 154TH CT,\nMIAMI, FL 33185",
+      "equity": "$482,543",
+      "contacts": [
+        {
+          "address": "4601 SW 154TH CT, MIAMI, FL 33185",
+          "name": "PETER GONZALEZ",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        },
+        {
+          "address": "4601 SW 154TH CT, MIAMI, FL 33185",
+          "name": "IVETTE GONZALEZ",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P79DBE84",
+      "county": "DADE",
+      "apn": "30-4921-025-0780",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "14620 SW 50TH ST,\nMIAMI, FL 33175",
+      "equity": "$227,812",
+      "contacts": [
+        {
+          "address": "14620 SW 50TH ST, MIAMI, FL 33175",
+          "name": "MICHEL TORRES",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        },
+        {
+          "address": "14620 SW 50TH ST, MIAMI, FL 33175",
+          "name": "MARILYN D MAZA",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "47083",
+                "recordingDate": "1/17/2008",
+                "grantor": "MAZA, MARILYN",
+                "grantee": "UNIVERSITY CU",
+                "amount": "$14,410",
+                "lienFilingDate": "1/11/2008",
+                "propertyLienInterestRate": "10.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2008-01-11",
+                "lienCourtCaseNumber": "07-15733-CC-05"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "126549",
+                "recordingDate": "2/14/2008",
+                "grantor": "MAZA, MARILYN",
+                "grantee": "UNIVERSITY CU",
+                "amount": "$14,410",
+                "lienFilingDate": "1/11/2008",
+                "propertyLienInterestRate": "10.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2008-01-11",
+                "lienCourtCaseNumber": "07-15733-CC-05"
+              }
+            ]
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P79DCA82",
+      "county": "DADE",
+      "apn": "30-4922-034-0200",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "14311 SW 103RD TER,\nMIAMI, FL 33186",
+      "equity": "$433,031",
+      "contacts": [
+        {
+          "address": "14311 SW 103RD TER, MIAMI, FL 33186",
+          "name": "YAMILETT HERRERA",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        },
+        {
+          "address": "14311 SW 103RD TER, MIAMI, FL 33186",
+          "name": "JORGE DANIEL HERRERA",
+          "documents": {
+            "banckrupcy": [
+              {
+                "caseNumber": "11-37358-RAM",
+                "recDate": "9/30/2011",
+                "status": "Open"
+              }
+            ],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "458031",
+                "recordingDate": "7/8/2010",
+                "grantor": "HERRERA, JORGE D",
+                "grantee": "JPMORGAN CHASE BANK NA",
+                "amount": "$44,268",
+                "lienFilingDate": "6/25/2010",
+                "propertyLienInterestRate": "6.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2010-06-25",
+                "lienCourtCaseNumber": "2009-89770-CA-25"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "478967",
+                "recordingDate": "7/19/2010",
+                "grantor": "HERRERA, JORGE D",
+                "grantee": "JPMORGAN CHASE BANK NA",
+                "amount": "$44,268",
+                "lienFilingDate": "6/25/2010",
+                "propertyLienInterestRate": "6.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2010-06-25",
+                "lienCourtCaseNumber": "2009-89770-CA-25"
+              }
+            ]
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P79EF9DC",
+      "county": "DADE",
+      "apn": "30-5903-036-0820",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "20850 SW 210TH AVE,\nMIAMI, FL 33187",
+      "equity": "$1,692,767",
+      "contacts": [
+        {
+          "address": "20850 SW 210TH AVE, MIAMI, FL 33187",
+          "name": "ORLANDO MENDEZ",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        },
+        {
+          "address": "20850 SW 210TH AVE, MIAMI, FL 33187",
+          "name": "SONIA MENDEZ",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "333372",
+                "recordingDate": "5/10/2012",
+                "grantor": "MENDEZ-PERERA, SONIA L",
+                "grantee": "TARGET NATIONAL BANK",
+                "amount": "$4,552",
+                "lienFilingDate": "5/9/2012",
+                "propertyLienInterestRate": "4.75",
+                "personLienStatus": "Open",
+                "lienContractDate": "2012-05-09",
+                "lienCourtCaseNumber": "10-20957-CC23"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "376513",
+                "recordingDate": "5/29/2012",
+                "grantor": "MENDEZ-PERERA, SONIA L",
+                "grantee": "TARGET NATIONAL BANK",
+                "amount": "$4,552",
+                "lienFilingDate": "5/9/2012",
+                "propertyLienInterestRate": "4.75",
+                "personLienStatus": "Open",
+                "lienContractDate": "2012-05-09",
+                "lienCourtCaseNumber": "10-20957-CC23"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "609936",
+                "recordingDate": "8/29/2012",
+                "grantor": "MENDEZ, SONIA E",
+                "grantee": "AMERICAN EXPRESS CENTURION BK",
+                "amount": "$11,655",
+                "lienFilingDate": "8/23/2012",
+                "propertyLienInterestRate": "4.75",
+                "personLienStatus": "Open",
+                "lienContractDate": "2012-08-23",
+                "lienCourtCaseNumber": "2012-008065-CC-23"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "135146",
+                "recordingDate": "2/20/2013",
+                "grantor": "BOSQUE, SONIA",
+                "grantee": "AMERICAN EXPRESS CENTURION B",
+                "amount": "$11,655",
+                "lienFilingDate": "8/23/2012",
+                "propertyLienInterestRate": "4.75",
+                "personLienStatus": "Open",
+                "lienContractDate": "2012-08-23",
+                "lienCourtCaseNumber": "2012-008065-CC-23"
+              }
+            ]
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P79FDC71",
+      "county": "DADE",
+      "apn": "30-6809-000-5400",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "6508 NW 113TH PL,\nDORAL, FL 33178",
+      "equity": "$718,378",
+      "contacts": [
+        {
+          "address": "6508 NW 113TH PL, DORAL, FL 33178",
+          "name": "MARTHA PUGA",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "194180",
+                "recordingDate": "3/17/2014",
+                "grantor": "PUGA, MARTHA R",
+                "grantee": "AMERICAN EXPRESS CENTURION B",
+                "amount": "$33,658",
+                "lienFilingDate": "3/13/2014",
+                "personLienStatus": "Open",
+                "lienContractDate": "2014-03-13",
+                "lienCourtCaseNumber": "12-29164-CA-01-05"
+              }
+            ]
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P7A1B252",
+      "county": "DADE",
+      "apn": "35-3018-005-0210",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "4663 MARILYN ANNE DR,\nJACKSONVILLE, FL 32257",
+      "equity": "$272,056",
+      "contacts": [
+        {
+          "address": "4663 MARILYN ANNE DR, JACKSONVILLE, FL 32257",
+          "name": "NICOIETTE K LANIER",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        },
+        {
+          "address": "4663 MARILYN ANNE DR, JACKSONVILLE, FL 32257",
+          "name": "HUGH LANIER",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "234152",
+                "recordingDate": "11/13/2023",
+                "grantor": "LANIER, HUGH E",
+                "grantee": "DISCOVER BANK",
+                "amount": "$13,725",
+                "lienFilingDate": "11/7/2023",
+                "propertyLienInterestRate": "8.54",
+                "personLienStatus": "Open",
+                "lienContractDate": "2023-11-07",
+                "lienCourtCaseNumber": "162023CC007000XXXXMA"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "22889",
+                "recordingDate": "2/5/2024",
+                "grantor": "LANIER, HUGH E",
+                "grantee": "BANK OF AMERICA NA",
+                "amount": "$13,972",
+                "lienFilingDate": "10/31/2023",
+                "personLienStatus": "Open",
+                "lienContractDate": "2023-10-31",
+                "lienCourtCaseNumber": "2023-CC-10532"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "46470",
+                "recordingDate": "3/7/2024",
+                "grantor": "LANIER, HUGH E",
+                "grantee": "DISCOVER BANK",
+                "amount": "$13,725",
+                "lienFilingDate": "11/7/2023",
+                "propertyLienInterestRate": "8.54",
+                "personLienStatus": "Open",
+                "lienContractDate": "2023-11-07",
+                "lienCourtCaseNumber": "162023CC007000XXXXMA"
+              }
+            ]
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P7A69A7F",
+      "county": "DUVAL",
+      "apn": "155697-4040",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "3691 CAMERON CROSSING DR,\nJACKSONVILLE, FL 32223",
+      "equity": "$228,398",
+      "contacts": [
+        {
+          "address": "4627 MAPLE LAKES DR, JACKSONVILLE, FL 32257",
+          "name": "TIMOTHY HAYNES",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "242756",
+                "recordingDate": "10/18/2010",
+                "grantor": "HAYNES, TIMOTHY A",
+                "grantee": "CHASE BANK USA NA",
+                "amount": "$17,602",
+                "lienFilingDate": "10/12/2010",
+                "propertyLienInterestRate": "6.00",
+                "personLienStatus": "Open",
+                "lienCourtCaseNumber": "10-CA-4191 CV-G"
+              }
+            ]
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P7A6A5B8",
+      "county": "DUVAL",
+      "apn": "156313-6875",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "5893 PARKSTONE CROSSING DR,\nJACKSONVILLE, FL 32258",
+      "equity": "$120,467",
+      "contacts": [
+        {
+          "address": "5893 PARKSTONE CROSSING DR, JACKSONVILLE, FL 32258",
+          "name": "ELMA HUSKIC",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        },
+        {
+          "address": "5893 PARKSTONE CROSSING DR, JACKSONVILLE, FL 32258",
+          "name": "SEMIR HUSKIC",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P7A6D6DE",
+      "county": "DUVAL",
+      "apn": "158767-1095",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "16133 SHELLCRACKER RD,\nJACKSONVILLE, FL 32226",
+      "equity": "$167,898",
+      "contacts": [
+        {
+          "address": "1018 UVALDA HWY, HAZLEHURST, GA 31539",
+          "name": "DANIEL GRAHAM GIDDENS",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "266102",
+                "recordingDate": "12/14/2017",
+                "grantor": "GIDDENS, DANIEL",
+                "grantee": "IMPERIAL FENCE SUPPLY LLC",
+                "amount": "$96,738",
+                "lienFilingDate": "11/9/2017",
+                "propertyLienInterestRate": "6.50",
+                "personLienStatus": "Open",
+                "lienContractDate": "2017-12-13",
+                "lienCourtCaseNumber": "2017-CG-0224-JH"
+              },
+              {
+                "documentType": "SLN",
+                "documentNumber": "35928",
+                "recordingDate": "6/28/2022",
+                "grantor": "GIDDENS, DANIEL G",
+                "grantee": "GEORGIA DEPARTMENT OF REVENUE",
+                "amount": "$1,943",
+                "lienFilingDate": "4/21/2022",
+                "personLienStatus": "Open",
+                "lienType": "INDIVIDUAL INCOME TAX",
+                "lienNumber": "221168929"
+              }
+            ]
+          }
+        },
+        {
+          "address": "137 N TALLAHASSEE ST, HAZLEHURST, GA 31539",
+          "name": "AMBER S GIDDENS",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P7A6EAAD",
+      "county": "DUVAL",
+      "apn": "159665-0030",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "1218 N 6TH AVE,\nPENSACOLA, FL 32503",
+      "equity": "$166,689",
+      "contacts": [
+        {
+          "address": "2624 SHERMAN AVE, PENSACOLA, FL 32507",
+          "name": "FRANK DELGADO",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "40493",
+                "recordingDate": "5/23/2012",
+                "grantor": "DELGADO, FRANK G",
+                "grantee": "FIA CARD SERVICES NA",
+                "amount": "$14,720",
+                "lienFilingDate": "5/22/2012",
+                "personLienStatus": "Open",
+                "lienContractDate": "2012-05-22",
+                "lienCourtCaseNumber": "2011-CC-003512"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "69140",
+                "recordingDate": "9/11/2012",
+                "grantor": "DELGADO, FRANK G",
+                "grantee": "FIA CARD SERVICES NA",
+                "amount": "$14,720",
+                "lienFilingDate": "5/22/2012",
+                "personLienStatus": "Open",
+                "lienContractDate": "2012-05-22",
+                "lienCourtCaseNumber": "2011-CC-003512"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "96039",
+                "recordingDate": "12/19/2013",
+                "grantor": "DELGADO, FRANK G",
+                "grantee": "CACH LLC",
+                "amount": "$16,504",
+                "lienFilingDate": "12/16/2013",
+                "propertyLienInterestRate": "4.75",
+                "personLienStatus": "Open",
+                "lienContractDate": "2013-12-16",
+                "lienCourtCaseNumber": "2012-CA-002362"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "15584",
+                "recordingDate": "3/7/2014",
+                "grantor": "DELGADO, FRANK G",
+                "grantee": "CACH LLC",
+                "amount": "$16,504",
+                "lienFilingDate": "12/16/2013",
+                "propertyLienInterestRate": "4.75",
+                "personLienStatus": "Open",
+                "lienContractDate": "2013-12-16",
+                "lienCourtCaseNumber": "2012-CA-002362"
+              }
+            ]
+          }
+        },
+        {
+          "address": "2624 SHERMAN AVE, PENSACOLA, FL 32507",
+          "name": "AUDREY B DELGADO",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P7A85AD9",
+      "county": "ESCAMBIA",
+      "apn": "00-0S-00-9020-042-053",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "6065 YELLOW ROSE DR,\nPENSACOLA, FL 32526",
+      "equity": "$147,745",
+      "contacts": [
+        {
+          "address": "6065 YELLOW ROSE DR, PENSACOLA, FL 32526",
+          "name": "JERRY DEAN ARROWOOD",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "83424",
+                "recordingDate": "10/27/2016",
+                "grantor": "ARROWOOD, JERRY D",
+                "grantee": "CITIBANK NA",
+                "amount": "$2,926",
+                "lienFilingDate": "10/27/2016",
+                "personLienStatus": "Open",
+                "lienContractDate": "2016-10-27",
+                "lienCourtCaseNumber": "2015 SC 002888"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "88910",
+                "recordingDate": "11/18/2016",
+                "grantor": "ARROWOOD, JERRY D",
+                "grantee": "CITIBANK NA",
+                "amount": "$2,926",
+                "lienFilingDate": "10/27/2016",
+                "personLienStatus": "Open",
+                "lienContractDate": "2016-10-27",
+                "lienCourtCaseNumber": "2015 SC 002888"
+              }
+            ]
+          }
+        },
+        {
+          "address": "6065 YELLOW ROSE DR, PENSACOLA, FL 32526",
+          "name": "REBECCA ARROWOOD",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "MOD",
+                "documentNumber": "58857",
+                "recordingDate": "8/2/2016",
+                "grantor": "ARROWOOD, REBECCA R",
+                "grantee": "REGIONS BANK",
+                "amount": "$16,674"
+              }
+            ]
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P7AA6649",
+      "county": "ESCAMBIA",
+      "apn": "38-1S-31-1420-290-001",
+      "status": "Pending+Contingent+20yr Exp"
+    },
+    {
+      "address": "400 CINNAMON BEACH WAY 342,\nPALM COAST, FL 32137",
+      "equity": "$540,335",
+      "contacts": [
+        {
+          "address": "400 CINNAMON BEACH WAY, PALM COAST, FL 32137",
+          "name": "JOHN KOBLENSKY JR",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": []
+          }
+        },
+        {
+          "address": "400 CINNAMON BEACH WAY, PALM COAST, FL 32137",
+          "name": "CHRISTINE KOBLENSKY JR",
+          "documents": {
+            "banckrupcy": [],
+            "involuntaryliens": [
+              {
+                "documentType": "ABJ",
+                "documentNumber": "27153",
+                "recordingDate": "6/9/2021",
+                "grantor": "KOBLENSKY, CHRISTINE ANN",
+                "grantee": "J&S AUTO CREDIT INC",
+                "amount": "$9,285",
+                "lienFilingDate": "6/9/2021",
+                "personLienStatus": "Open",
+                "lienContractDate": "2021-06-09",
+                "lienCourtCaseNumber": "2020-1655"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "1563",
+                "recordingDate": "12/7/2022",
+                "grantor": "KOBLENSKY, CHRISTINE",
+                "grantee": "J&S AUTO CREDIT INC",
+                "amount": "$7,553",
+                "lienFilingDate": "12/6/2022",
+                "propertyLienInterestRate": "2.00",
+                "personLienStatus": "Open",
+                "lienContractDate": "2022-12-06",
+                "lienCourtCaseNumber": "2021-1563"
+              },
+              {
+                "documentType": "ABJ",
+                "documentNumber": "1563",
+                "recordingDate": "12/13/2022",
+                "grantor": "KOBLENSKY, CHRISTINE",
+                "grantee": "J&S AUTO CREDIT INC",
+                "amount": "$12,127",
+                "lienFilingDate": "12/6/2022",
+                "personLienStatus": "Open",
+                "lienContractDate": "2022-12-08",
+                "lienCourtCaseNumber": "2021-1563"
+              }
+            ]
+          }
+        }
+      ],
+      "propertyurl": "https://app.propertyradar.com/#!/myLists/Florida%20(Pending%2BContingent%2B20yr%20Exp)/detail/P7AAB22F",
+      "county": "FLAGLER",
+      "apn": "04-11-31-3513-00000-0342",
+      "status": "Pending+Contingent+20yr Exp"
+    }
+  ]
+}
