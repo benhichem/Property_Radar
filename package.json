@@ -10,7 +10,7 @@
   "scripts": {
     "test": "npm run clear && jest --coverage",
     "test:watch": "npm run clear && jest --watch",
-    "start": "node --experimental-specifier-resolution=node .",
+    "start": "tsc && node --experimental-specifier-resolution=node .",
     "start:monitor": "node start dist/index.monit.js",
     "start:test": "node dist/index.test.js",
     "dev": "mprocs",
