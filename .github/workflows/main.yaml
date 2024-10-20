@@ -20,7 +20,7 @@ jobs:
         run: npm install
       - name: Run main
         timeout-minutes: 2880
-        run: npm start
+        run: npm run start
       - name: Save the generated files
         if: always()
         uses: stefanzweifel/git-auto-commit-action@v4
